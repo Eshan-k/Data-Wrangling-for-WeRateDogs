@@ -1,6 +1,6 @@
 <h1>Data Wrangling for WeRateDogs</h1>
 
-<h2>Data Wrangling Process</h2>:
+<h2>Data Wrangling Process</h2>
 •	Gathering Data
 •	Assessing Data
 •	Cleaning Data
